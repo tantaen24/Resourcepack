@@ -1,0 +1,28 @@
+{
+	"parent": "item/handheld"},
+    "display": {
+        "thirdperson_righthand": {
+            "scale": [ 3, 3, 3 ]
+        },
+        "thirdperson_lefthand": {
+            "scale": [ 3, 3, 3 ]
+        },
+        "firstperson_righthand": {
+            "scale": [ 3, 3, 3 ]
+        },
+        "firstperson_lefthand": {
+            "scale": [ 3, 3, 3 ]
+        },
+        "gui": {
+            "scale": [ 3, 3, 3 ]
+        },
+        "head": {
+            "scale": [ 3, 3, 3 ]
+        },
+        "ground": {
+            "scale": [ 3, 3, 3 ]
+        },
+        "fixed": {
+            "scale": [ 3, 3, 3 ]
+        }
+    }
